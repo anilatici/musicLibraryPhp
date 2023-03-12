@@ -1,7 +1,6 @@
 <?php include 'includes/header.php';?>
 
 
-<!-- the body section -->
 <body>
 
     <div class="container text-center mt-4">

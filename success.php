@@ -1,4 +1,3 @@
-<!-- success.php -->
 <!DOCTYPE html>
 <html>
 <head>

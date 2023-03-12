@@ -10,7 +10,7 @@
         <ul class="list-unstyled">
           <li><a href="tel:555-555-5555"><i class="bi bi-phone"></i> 555-555-5555</a></li>
           <li><a href="mailto:info@vinylgallery.com"><i class="bi bi-envelope"></i> info@vinylgallery.com</a></li>
-          <li><a href="#"><i class="bi bi-geo-alt"></i> 123 Main Street, Anytown USA</a></li>
+          <li><a href="#"><i class="bi bi-geo-alt"></i> 348 Newbury St, Boston USA</a></li>
         </ul>
       </div>
       <div class="col-md-4">

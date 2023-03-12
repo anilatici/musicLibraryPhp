@@ -37,6 +37,6 @@ $statement->closeCursor();
       <?php endforeach; ?>
     </div>
   </section>
-</main><!-- /.container -->
+</main>
 
 <?php include 'includes/footer.php';?>
