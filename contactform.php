@@ -1,7 +1,7 @@
 <?php include 'includes/header.php';?>
 <?php
 try {
-    $conn = new PDO("mysql:host=localhost;dbname=music_shop", 'root', '');
+    $conn = new PDO("mysql:host=localhost;dbname=DOO243449", 'D00243449', '8LmLXzH6');
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch(PDOException $e) {
     echo "Connection failed: " . $e->getMessage() . "<br>";
